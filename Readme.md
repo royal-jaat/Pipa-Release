@@ -26,6 +26,9 @@ Xiaomi Pad 6 Build releases
     <li>select reboot to recovery(advanced -> reboot to recovery)</li>
     <li>select apply update in recovery</li>
     <li>In your pc terminal, run adb sideload rom.zip(replace rom.zip with the downloaded rom package name.zip)</li>
+
+  # If you are flashing vanilla build and want gapps
+  
     <Useful Links</h1>
 <li>Google Apps for A14:  <a href="https://github.com/MindTheGapps/14.0.0-arm64/releases">Here</a></li>
 <li>Google Apps for A15:  <a href="https://github.com/MindTheGapps/15.0.0-arm64/releases">Here</a></li>
