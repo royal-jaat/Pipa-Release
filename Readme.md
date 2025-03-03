@@ -1,4 +1,4 @@
-# pipa-releases
+# Flash Guide
 Xiaomi Pad 6 Build releases
 
 <h2>Installation Guide</h1>
@@ -26,20 +26,7 @@ Xiaomi Pad 6 Build releases
     <li>select reboot to recovery(advanced -> reboot to recovery)</li>
     <li>select apply update in recovery</li>
     <li>In your pc terminal, run adb sideload rom.zip(replace rom.zip with the downloaded rom package name.zip)</li>
-    <li>if you are flashing a vanilla build and want to flash gapps, select reboot to recovery(installation ends at 47% displayed on your pc terminal) and then sideload gapps by selecting apply update. Skip this step if you are already flashing a gapps build</li>
-    <li>Flash Magisk</li>
-    <li>Reboot to system</li>
-  </ol>
-<h3>For updating from existing LMO build</h2>
-    <li>select reboot to recovery(advanced -> reboot to recovery)</li>
-    <li>select apply update in recovery</li>
-    <li>In your pc terminal, run adb sideload rom.zip(replace rom.zip with the downloaded rom package name.zip)</li>
-    <li>if you are flashing a vanilla build and want to flash gapps, select reboot to recovery(installation ends at 47% displayed on your pc terminal) and then sideload gapps by selecting apply update. Skip this step if you are already flashing a gapps build</li>
-    <li>Flash Magisk</li>
-
-</div>
-
-<h2>Useful Links</h1>
+    <Useful Links</h1>
 <li>Google Apps for A14:  <a href="https://github.com/MindTheGapps/14.0.0-arm64/releases">Here</a></li>
 <li>Google Apps for A15:  <a href="https://github.com/MindTheGapps/15.0.0-arm64/releases">Here</a></li>
 <li>Magisk:  <a href="https://github.com/topjohnwu/magisk/releases">Here</a></li>
